@@ -1,19 +1,19 @@
 {
-    "version": "0.0.10",
+    "version": "0.0.11",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/prometheusresearch/rex_deliver_dataset/releases/download/0.0.10/rex_deliver_dataset_0.0.10_windows_32bit.zip",
+            "url": "https://github.com/prometheusresearch/rex_deliver_dataset/releases/download/0.0.11/rex_deliver_dataset_0.0.11_windows_32bit.zip",
             "bin": [
                 "rex_deliver_dataset.exe"
             ],
-            "hash": "8eec13ace96164f2af13a6dd332b1c5cda68b5639f2635a3427dd7191bb508b3"
+            "hash": "1b4408506360727d48926b0331b937677faedaab1d3e0ebf2628c592cd8e53b9"
         },
         "64bit": {
-            "url": "https://github.com/prometheusresearch/rex_deliver_dataset/releases/download/0.0.10/rex_deliver_dataset_0.0.10_windows_64bit.zip",
+            "url": "https://github.com/prometheusresearch/rex_deliver_dataset/releases/download/0.0.11/rex_deliver_dataset_0.0.11_windows_64bit.zip",
             "bin": [
                 "rex_deliver_dataset.exe"
             ],
-            "hash": "e72905002935289bda57676114f5e4ab69713d588ae53a57331f4acc45872a7c"
+            "hash": "6769c9bd07bcfb3a9e757ee61a03ab7455ae33f853d1a4d66c18e462c8f7e940"
         }
     },
     "homepage": "https://github.com/prometheusresearch/rex_deliver_dataset",
